@@ -1,9 +1,0 @@
-git status
-git add .
-gitt commit -m "
-git branch -m main
-
-git push -u origin main
-
-traer cambios
-git pull
